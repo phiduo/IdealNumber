@@ -45,7 +45,14 @@ public class IdealNumber {
 
             Falls nötig, nimm dir einen Stift und schreibe dir einmal alle relevanten
             Fälle so auf. Wenn du das machst, erkennst du, dass 2 und 3 die echten
-            Divisoren sind.
+            Divisoren sind und was ein echter Divisor überhaupt bedeutet.
+            Diese Bedeutung kannst du dann in Code umschreiben, also:
+
+            "Für inputNumber % i muss Rest = 0 rauskommen"
+            - also -
+            Ein Divisor ist echt, wenn der Ausdruck
+            inputNumber % i == 0
+            true ist. Das verwenden wir dann unten.
          */
 
         /*
