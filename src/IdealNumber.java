@@ -18,7 +18,7 @@ public class IdealNumber {
 
             Die do-while Schleife führt einmal das Codeinnere aus und wiederholt es
             so lange die untere Bedingung in der Klammer erfüllt ist, also solange der
-            Nutzer immer eine Zahl <= 1 eingibt. Lt. Angabe ist 0 sowieso keine
+            Nutzer immer eine Zahl <= 0 eingibt. Lt. Angabe ist 0 sowieso keine
             ideale Zahl, also muss inputNumber > 0 sein. Wir nehmen an, dass 0 auch keine
             natürliche Zahl, also ungültig zum Eingeben, ist.
          */
