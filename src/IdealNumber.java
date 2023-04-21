@@ -30,7 +30,7 @@ public class IdealNumber {
         }while(inputNumber <= 0);
 
         /*
-            Die Aufgabenstellung verlang eigentlich nicht, dass wir die echten
+            Die Aufgabenstellung verlangt eigentlich nicht, dass wir die echten
             Divisoren speichern/ausgeben. Das Grundprinzip bleibt aber gleich:
             Für einen echten Divisor muss für inputNumber % i Rest = 0 rauskommen.
             Z.B.:
