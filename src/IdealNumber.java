@@ -70,6 +70,7 @@ public class IdealNumber {
             }                          // (ansonsten nichts machen)
             i++;                       // i (also den Divisor) um eins erhöhen
         }
+
         /*
             Am Ende der Schleife, also wenn wir mit allen Divisoren durch sind,
             schauen, ob nun sum gleich der inputNumber ist.
