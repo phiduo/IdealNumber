@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class IdealNumber {
 
     /*
-    Sorry, hab bemerkt, dass wir die echten Divisoren gar nicht ausgeben müssen.
-    Das erleichtert das Programm natürlich um einiges!
+        Sorry, hab bemerkt, dass wir die echten Divisoren gar nicht ausgeben müssen.
+        Das erleichtert das Programm natürlich um einiges!
      */
 
     public static void main(String[] args) {
